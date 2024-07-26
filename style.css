@@ -163,3 +163,53 @@
 .footer .one  h1{
     font-size: 20px;
 }
+
+/* <!-- ---------------------------------------contact---------------------------------- --> */
+.contact{
+    display: flex;
+    padding: 20px 5%;
+    align-items: center;
+}
+.contact .left{
+    margin-right: 50px;
+}
+.contact .left img{
+    width: 100%;
+}
+.contact .right h1{
+    font-size: 60px;
+}
+
+/* <!-- ---------------------------------------US---------------------------------- --> */
+.h2{
+    padding: 10px 5%;
+    margin-left: 100px;
+}
+.h2 h2{
+    font-size: 40px;
+}
+.us{
+    display: flex;
+    align-items: center;
+    padding: 20px 5%;
+    margin-bottom: 50px;
+}
+.us .left{
+    margin-left: 100px;
+}
+.us .left p{
+    font-size: 22px;
+    padding-bottom: 30px;
+}
+.us .left a{
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+
+}
+.us .left a:hover{
+    color: black;
+}
+.background{
+    background-color: #f5f5f5;
+}
