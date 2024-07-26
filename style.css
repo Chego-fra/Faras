@@ -169,16 +169,16 @@
 /* .about .left img{
     /* width: 100%; 
 } */
-.about .right{
+.about .ann{
     margin-left: 40px;
 }
 
-.about .right h1{
+.about .ann h1{
     color: black;
     font-size: 40px;
 }
 
-.about .right p{
+.about .ann p{
     font-size: 18px;
     color: #38393a;
     line-height: 1.5;
@@ -189,15 +189,15 @@
     padding: 30px 15%;
 }
 
-.mission .left{
+.mission .door{
     margin-right: 40px;
 }
-.mission .left h1{
+.mission .door h1{
     color: black;
     font-size: 40px;
 }
 
-.mission .left p{
+.mission .door p{
     font-size: 18px;
     /* line-height: 1.5; */
     margin-bottom: 20px;
